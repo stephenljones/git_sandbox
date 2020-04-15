@@ -2,4 +2,7 @@ Chapter 1
 The story begins.
 Once upon a time.
 There was a boy.
+<<<<<<< HEAD
 The boy lived in a house.
+=======
+>>>>>>> 2199225907026163a12edbf8b1936b1c1716a4cc
